@@ -10,7 +10,7 @@
 - 📫 Contacté moi... **blampainaurelien229@gmail.com**
 
 <h3 align="left">Se connecter avec moi:</h3>
-<p align="left">[https://www.linkedin.com/in/aur%C3%A9lien-blampain](https://www.linkedin.com/in/aur%C3%A9lien-blampain-39b0792a0/)
+<p align="left">https://www.linkedin.com/in/aur%C3%A9lien-blampain-39b0792a0/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
