@@ -12,9 +12,15 @@ Je suis ouvert aux opportunités de collaboration, que ce soit pour des projets,
 Merci de prendre le temps de découvrir mon parcours et mes aspirations professionnelles. Je me réjouis de connecter avec vous et d'explorer les opportunités potentielles.</p>
 
 
-- 🌱 Je suis actuellement en apprentissage de : react afin de me spécialiser dans le frontend
+- 🌱 Je suis actuellement en apprentissage de :
 
-- 📫 Contactez moi... **blampainaurelien229@gmail.com**
+-react afin de me spécialiser dans le frontend.
+
+-Par la suite j'aimerais découvrir three.js
+
+- 📫 Contactez moi...
+
+- **blampainaurelien229@gmail.com**
 
 <h3 align="left">Se connecter avec moi:</h3>
 <p align="left">https://www.linkedin.com/in/aur%C3%A9lien-blampain-39b0792a0/
