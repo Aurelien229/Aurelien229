@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je suis'm Aurélien</h1>
+<h1 align="center">Bonjour 👋, Je suis Aurélien</h1>
 <h3 align="center">Nouveau jr developpeur plutot axé frontend suite a une reconversion professionnelle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
