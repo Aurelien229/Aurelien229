@@ -1,11 +1,18 @@
 <h1 align="center">Bonjour 👋, Je suis Aurélien</h1>
-<h3 align="center">Nouveau jr developpeur plutot axé frontend suite a une reconversion professionnelle</h3>
+<h2 align="center">Nouveau jr developpeur plutot axé frontend</h2>
+<h3 align="center">A propos de moi</h3>
+<p align="left">Je suis un passionné de technologie actuellement engagé dans une formation intensive en tant que Junior Développer chez BeCode Charleroi. Ma carrière, initialement orientée dans l’HORECA, a récemment pris un tournant significatif vers le monde de la programmation et du développement.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
+Ayant choisi de suivre ma passion pour l'informatique, j'ai entrepris une reconversion professionnelle afin de me spécialiser en développement web. Mon engagement envers cette transition est actuellement illustré par ma participation active au programme de formation rigoureux de BeCode Charleroi, où j'acquiers des compétences pratiques et une expertise technique dans divers langages de programmation, frameworks et technologies de pointe.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelien229" alt="aurelien229" /></a> </p>
+Mon objectif est de combiner mes compétences antérieures avec les nouvelles compétences en développement que j'acquiers afin de contribuer de manière significative à des projets innovants et de m'épanouir en tant que professionnel du développement. Je suis convaincu que ma détermination, ma capacité d'apprentissage rapide et ma passion pour l'informatique font de moi un atout précieux pour toute équipe de développement.
 
-- 🌱 Je suis actuellement en apprentissage de : **JS,react afin de me spécialiser dans le frontend**
+Je suis ouvert aux opportunités de collaboration, que ce soit pour des projets, des stages ou des postes juniors. N'hésitez pas à me contacter si vous souhaitez discuter de la manière dont mes compétences et ma motivation peuvent contribuer à vos initiatives.
+
+Merci de prendre le temps de découvrir mon parcours et mes aspirations professionnelles. Je me réjouis de connecter avec vous et d'explorer les opportunités potentielles.</p>
+
+
+- 🌱 Je suis actuellement en apprentissage de : react afin de me spécialiser dans le frontend
 
 - 📫 Contactez moi... **blampainaurelien229@gmail.com**
 
@@ -22,3 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurelien229&" alt="aurelien229" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelien229" alt="aurelien229" /></a> </p>
