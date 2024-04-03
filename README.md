@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Aurélien</h1>
 <h2 align="center">Nouveau jr developpeur plutot axé frontend</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
 <h3 align="center">A propos de moi</h3>
 <p align="left">Je suis un passionné de technologie actuellement engagé dans une formation intensive en tant que Junior Développer chez BeCode Charleroi. Ma carrière, initialement orientée dans l’HORECA, a récemment pris un tournant significatif vers le monde de la programmation et du développement.
 
@@ -35,6 +36,6 @@ Merci de prendre le temps de découvrir mon parcours et mes aspirations professi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurelien229&" alt="aurelien229" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurelien229" alt="aurelien229" /></a> </p>
