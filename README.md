@@ -7,7 +7,7 @@
 
 - 🌱 Je suis actuellement en apprentissage de : **JS,react afin de me spécialiser dans le frontend**
 
-- 📫 Contacté moi... **blampainaurelien229@gmail.com**
+- 📫 Contactez moi... **blampainaurelien229@gmail.com**
 
 <h3 align="left">Se connecter avec moi:</h3>
 <p align="left">https://www.linkedin.com/in/aur%C3%A9lien-blampain-39b0792a0/
