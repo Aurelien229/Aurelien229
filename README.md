@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aurelien229&label=Profile%20views&color=0e75b6&style=flat" alt="aurelien229" /> </p>
 <h1 align="center">Bonjour 👋, Je suis Aurélien</h1>
-<h2 align="center">Nouveau jr developpeur plutot axé frontend</h2>
+<h2 align="center">Développeur frontend</h2>
 <h3 align="center">A propos de moi</h3>
 <p align="left">Je suis un passionné de technologie actuellement engagé dans une formation intensive en tant que Junior Développer chez BeCode Charleroi. Ma carrière, initialement orientée dans l’HORECA, a récemment pris un tournant significatif vers le monde de la programmation et du développement.
 
